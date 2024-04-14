@@ -1,7 +1,7 @@
 # pong
 Recreation of "pong" in python
 
-#Installation
+# Installation
 Download python 3
 
 pip install requirements.txt
